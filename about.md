@@ -6,9 +6,19 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<br/>
+<br>
 An aspiring software developer who likes solving problems and writing software. 
-<br/>
+<br>
+<br>
+Interests:<br/>
+Machine Learning<br/>
+Data analysis<br/>
+Cyber Security<br/>
+<br>
+<br>
+<br>
+<br>
+
 <hr/>
 <br/>
 <span class="contacticon center">
@@ -18,6 +28,9 @@ An aspiring software developer who likes solving problems and writing software.
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+Most easily reached by email.
+<br>
+<br>
+This website is based on a theme called folio by bogoli.
 </div>
 
