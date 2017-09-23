@@ -1,0 +1,10 @@
+---
+layout: post
+title: Post 101
+date: 2017-09-15 21:49:00
+description: SixSigma Toolbox 
+---
+
+This is my first post. To get to this point I've started my first true project "SixSigma Toolbox" in C# and have decided to set up this website.
+
+If this post does not evolve into something useful, future posts will detail my adventures in creating the toolbox. If I find useful bits of information, or things that I have struggled to piece together, I'll attempt to add to the great knowledge of the internet and consolodate them. 
