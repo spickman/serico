@@ -4,8 +4,8 @@
  */
 .site-header {
 border-bottom: 1px solid $grey-color-light;
-background-color: #EEEEEE; 
-opacity: 0.75;
+background-color: #EEEEEE;
+opacity: 0.85;
 position:fixed;
 left:0px;
 top:0px;
@@ -28,7 +28,8 @@ color: $theme-color;
 float: right;
 line-height: $nav-height;
 .page-link{
-color:#707070;
+color:#4d4d4d;
+font-size: 18px;
 line-height: $base-line-height;
         // Gaps between nav items, but not on the first one
 &:not(:first-child) {
@@ -51,9 +52,9 @@ display: line;
 }
 .page-link:hover{
     color:$theme-color;
-    font-size: 18px;
-    transition: color 0.5s;
-    transition: font-size 0.5s;
+    font-size: 20px;
+    transition: color 0.3s;
+    transition: font-size 0.3s;
 }
 
 .header-bar{
@@ -146,6 +147,22 @@ line-height: 1;
 font-size: 36px;
     }
 }
+
+.post-title:hover
+{
+    font-size: 42px;
+    transition: font-size 0.3s;
+}
+
+.post-title-post {
+    color: $theme-color;
+font-size: 42px;
+letter-spacing: -1px;
+line-height: 1;
+@include media-query($on-laptop) {
+font-size: 36px;
+    }
+}
 .post-content {
 h2 {
 font-size: 42px;
@@ -176,17 +193,6 @@ display: block;
 font-size: 42px;
 }
 
-/** Poem formatting ********************************************/
-.poem-title {
-font-size: 24px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 16px;
-    }
-}
-
-
 /** 
  * Portfolio grid **********************************************************
 */
@@ -215,11 +221,9 @@ height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
-width: 500px;
-height: auto;
+width: 100%;
+height: 100%;
 position: relative;
-left: -25%;
-top: -5%;
 }
 .thumbnail a{
 float: left;
@@ -234,14 +238,21 @@ top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
+background: rgba(0,0,0,0.8);
 color: $grey-color-light;
 padding: 40px;
 text-align: center;
+opacity: 0;
 }
 .thumbnail a:hover span {
 display: block;
 }
+
+.thumbnail span:hover{
+    opacity: 1;
+    transition: opacity 0.5s;
+}
+
 /** 
  * Portfolio pages **********************************************************
 */
@@ -249,7 +260,7 @@ display: block;
 background: $theme-color;
 }
 .img_row{
-height: $img_height;
+height: 100%;
 width: 100%;
 overflow: hidden;
 box-sizing:border-box;

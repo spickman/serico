@@ -6,19 +6,13 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
-<br>
-An aspiring software developer who likes solving problems and writing software. 
-<br>
-<br>
+<strong>Stephen Pickman</strong> is an aspiring software developer who likes solving problems and writing software.
+<br> <br>
+This blog will be a motivation to explore new and interesting things and be a place to share (hopefully) any progress!
+<br> <br>
 Interests:<br/>
-Machine Learning<br/>
-Data analysis<br/>
-Cyber Security<br/>
-<br>
-<br>
-<br>
-<br>
-
+Machine Learning, Data analysis, Cyber Security, Cool things with computers... <br/><br>
+I graduated Cambridge University with a Masters of Natural Sciences in 2017.
 <hr/>
 <br/>
 <span class="contacticon center">

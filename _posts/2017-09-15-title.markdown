@@ -2,9 +2,59 @@
 layout: post
 title: Post 101
 date: 2017-09-15 21:49:00
-description: SixSigma Toolbox 
+description: About Stephen 
 ---
 
-This is my first post. To get to this point I've started my first true project "SixSigma Toolbox" in C# and have decided to set up this website.
+This is my first post and a few things have had to happen to get this far. 
 
-If this post does not evolve into something useful, future posts will detail my adventures in creating the toolbox. If I find useful bits of information, or things that I have struggled to piece together, I'll attempt to add to the great knowledge of the internet and consolodate them. 
+- I have decided that I want to <strong>improve my programming ability</strong>. Not the way I have been doing it up to now, but actual projects that will be pushed to Github in all their glory.
+
+- Whatever I end up doing I want the ability to <strong>write clean, efficient code</strong> that solves more problems than it creates without my overreliance on other peoples snippets.
+
+- I've started my first true project <strong>"SixSigma Toolbox"</strong> in C#.
+
+
+A little about me:
+I really enjoy building computers, for myself, for family, for friends... 
+In honor of the computer that saw me through 4 years at university.
+
+<div class="img_row">
+    <img class="col two" src="{{ site.baseurl }}/img/DesktopV1.jpg">
+    <div class="col one">
+        Specs:<br/>
+        - Closed loop cooling CPU/GPU<br/>
+        - Intel i7 Broadwell<br/>
+        - 32 Gig 1866Mhz DDR3 Ram<br/>
+        - 120 Gig Corsair SSD<br/>
+        - 2*1Tb Raid 1<br/>
+        - ATI HD7550 GPU<br/>
+        <br>
+        A bit of a tight fit, and airflow isn't the best, but it succesfully got me into hte realm of Machine learning and my Master project "The Perfect Clustering Algorithm". Specs are a little light as I haven't got it plugged in tto check.
+    </div>
+</div>
+<br>
+And my current main computer:
+<br>
+
+<div class="img_row">
+    <div class="col one">
+    Specs:<br/>
+        - Corsair 760T Case
+        - Custom loop watercooling<br/>
+        - 380mm Top / 240mm Front <br/>
+        - 8 Coraisr MagLev fans<br/>
+        - 16gig DDR3 3200Mhz Ram<br/>
+        - 240gig NVMe SSD<br/>
+        - 2*1Tb Raid 1<br/>
+        - GTX 1070<br/>
+        - Intel i7 Skylake<br/>
+        - Can't forget the LEDS!!<br/>
+    </div>
+    <img class="col two" src="{{ site.baseurl }}/img/DesktopV2.jpg">
+</div>
+
+The watercooling was fun (but stressful) to do and there were definitely a couple of "grab the towels" moments. In a few of months I may consider changing the colour scheme to a dark red; one of the bonus of only buying white LEDS.
+
+On top of this I have an old Alienware laptop with Ubuntu installed, on which I am currently typing this post! 
+
+Future posts will detail my programming adventures. If I find useful bits of information, or things that I have struggled to piece together, I'll attempt to add to the great knowledge of the internet and consolodate them in a post.

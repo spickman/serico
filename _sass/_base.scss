@@ -131,6 +131,7 @@ a {
     */
     &:hover {
         color: $theme-color;
+        transition: color 0.3s; 
         text-decoration: none;
     }
 }
