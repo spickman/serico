@@ -2,7 +2,7 @@
 layout: post
 title: <strong>Website Serico</strong>
 description: A website to showcase my projects 
-img: /img/1.jpg
+img: 1.jpg
 ---
  
 I have always wanted to have my own website and after graduation and my new interest in software development I wanted a place to showcase my projects. 
