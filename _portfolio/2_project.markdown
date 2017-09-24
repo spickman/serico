@@ -2,7 +2,7 @@
 layout: post
 title: <strong>SixSigma Toolbox </strong>
 description: A toolbox for statistical training
-img: serico/img/2.jpg
+img: 2.jpg
 ---
 
 This toolbox aims to be an extensible application that provides useful tools for trainers of statistics in the classroom. Initially focused on visualizing distributions later tools will explore normality testing, non-normal data and confidence intervals.

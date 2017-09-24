@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/prof_pic.jpg">
 
 <strong>Stephen Pickman</strong> is an aspiring software developer who likes solving problems and writing software.
 <br> <br>
