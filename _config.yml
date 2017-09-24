@@ -3,7 +3,7 @@ title: serico
 email: stephenpickman@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-baseurl: serico
+baseurl:
 url:  https://spickman.github.io/serico/
 twitter_username: twitter_username
 github_username: spickman 
