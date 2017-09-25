@@ -1,0 +1,41 @@
+---
+layout: post
+title: mvvm 01
+date: 2017-09-24 19:10:00
+description: About Stephen 
+---
+
+This series of posts will focus on implementing the MVVM (Model View ViewModel) strcuture in a C# WPF (Windows Presentation Foundation) application. 
+
+WPF has added many useful things that help achieve the necesary isolation between the MVVM pattern components.
+
+<div class="img_row">
+     <div class="col two">
+        <strong>What is MVVM?</strong><br><br>
+        MVVM is made up of 3 parts. <br>
+        Model | View | ViewModel<br><br>
+        <i> Image from Reed Copsey's blog </i><br/><br/>
+   I'm not going to go into an explaination of the pattern itself as <a href="https://msdn.microsoft.com/en-gb/library/hh848246.aspx">MSDN</a> has a very good article explaining the components. <br/><br>
+        <a href="http://reedcopsey.com/2010/01/06/better-user-and-developer-experiences-from-windows-forms-to-wpf-with-mvvm-part-7-mvvm/">Reed Copsey</a> has a very good summary of the beneifts of MVVM, including a discussion of WPF vs Windows Forms. 
+He also has an example application that follows his blog on the development of the MVVM pattern, but I feel it falls short when you try and implement more interesting cases. 
+        </div>
+   <img class="col one" src="{{ site.baseurl }}/img/MVVM.png">
+</div>
+
+There are a host of other websites that give introduction into MVVM with WPF to varying degrees. I am going to focus on the issues I had after reading these introductions as I tried to actually create an application.
+
+Assuming that you've read around the topic and think MVVM is the way to go, lets have a look at how we actually implement this in the code. 
+
+I will cover the issues below in following posts:
+<div style="margin-left:20px; line-height:200%;">
+1) A base viewmodel class<br>
+2) Viewmodel structure<br>
+3) Conditonal Bindings <br>
+4) Having multiple pages in the application<br>
+<div style="margin-left:20px;">
+4a) Using viewmodels within viewmodels<br>
+4b) Referencing a command in a parent viewmodel<br>
+</div>
+5) Getting a textbox to update when enter (or any key) is hit. <br>
+6) A splash screen that shows for a minimum set time <br>
+</div>
