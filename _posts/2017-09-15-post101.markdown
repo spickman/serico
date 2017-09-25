@@ -29,7 +29,7 @@ In honor of the computer that saw me through 4 years at university.
         - 2*1Tb Raid 1<br/>
         - ATI HD7550 GPU<br/>
         <br>
-        A bit of a tight fit, and airflow isn't the best, but it succesfully got me into hte realm of Machine learning and my Master project "The Perfect Clustering Algorithm". Specs are a little light as I haven't got it plugged in tto check.
+        A bit of a tight fit, and airflow isn't the best, but it succesfully got me into hte realm of Machine learning and my Master project "The Perfect Clustering Algorithm". Specs are a little light as they are from memory.
     </div>
 </div>
 <br>
@@ -39,9 +39,10 @@ And my current main computer:
 <div class="img_row">
     <div class="col one">
     Specs:<br/>
-        - Corsair 760T Case
+        - Corsair 760T Case<br/>
         - Custom loop watercooling<br/>
-        - 380mm Top / 240mm Front <br/>
+        - 380mm Top Radiator<br/>
+        - 240mm Front Radiator<br/>
         - 8 Coraisr MagLev fans<br/>
         - 16gig DDR3 3200Mhz Ram<br/>
         - 240gig NVMe SSD<br/>
@@ -53,7 +54,7 @@ And my current main computer:
     <img class="col two" src="{{ site.baseurl }}/img/DesktopV2.jpg">
 </div>
 
-The watercooling was fun (but stressful) to do and there were definitely a couple of "grab the towels" moments. In a few of months I may consider changing the colour scheme to a dark red; one of the bonus of only buying white LEDS.
+The watercooling was fun to do despite a couple of "grab the towels" moments. In a few of months I may consider changing the colour scheme to a dark red; one of the bonus of only buying white LEDS.
 
 On top of this I have an old Alienware laptop with Ubuntu installed, on which I am currently typing this post! 
 
